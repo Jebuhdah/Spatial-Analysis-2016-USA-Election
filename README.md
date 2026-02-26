@@ -1,4 +1,4 @@
-# 2016-USA-Election-Spatial-Analysis
+# Spatial-Analysis-2016-USA-WI-State-Election
 The election victory for Donald J. Trump in 2016 came at rather a surprise, as all forecasting has 
 predicted him to lose the election, that his opponent Hillary Clinton to gain an overwhelming victory 
 over him, which this prediction was then overturned completely by the actual result of the election. The 
